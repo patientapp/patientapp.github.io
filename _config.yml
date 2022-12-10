@@ -1,0 +1,20 @@
+# Site settings
+title: Patient App
+email: hello@patientapp.io
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/patientapp
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url: https://www.linkedin.com/company/patientapp
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/patientapp
+
+# Build settings
+markdown: kramdown
